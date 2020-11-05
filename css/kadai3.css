@@ -1,0 +1,33 @@
+h1{
+    color: #ffffff;
+    font-weight: normal;
+    font-family: serif;
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: serif;
+    background-color: black;
+}
+
+h3{
+    color: #ffffff;
+}
+
+p{
+    color: #f11111;
+    font-weight
+}
+
+p1{
+    color: #f11111;
+   <!--background-color: black;-->
+}
+
+body{
+    background-image: url(../images/b.jpg);
+    background-attachment: fixed;
+}
