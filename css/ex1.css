@@ -1,0 +1,33 @@
+body{
+    background-image: url(../images/br.jpeg);
+    background-attachment: fixed;
+}
+
+h1{
+    color: #ffffff;
+    font-weight: normal;
+    font-family: serif;
+    text-align: center;
+    background-color:brown;
+}
+
+h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: serif;
+    background-color:brown;
+}
+
+tr{
+    color: #ffffff;
+    font-family: serif;
+    background-color:brown;
+}
+
+ol{
+    background-image: url(../images/ds.jpeg)
+}
+
+address{
+    color: #ffffff;
+}
