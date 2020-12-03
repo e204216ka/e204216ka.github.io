@@ -1,0 +1,45 @@
+h1{
+    color: #ffffff;
+    font-weight: normal;
+    font-family: serif;
+    text-align: center;
+    background-color: black;
+}
+
+h1#ult{
+    color:chartreuse;
+    background-color: dimgrey;
+}
+
+h2.s1{
+    text-align: center;
+    font-family: serif;
+    color: darkorange;
+    background-color:darkslategrey
+}
+
+h2.s2{
+    color:fuchsia;
+    text-align: center;
+    font-family: serif;
+    background-color:darkseagreen
+}
+
+h3{
+    color: #ffffff;
+}
+
+p{
+    color: #f11111;
+    font-weight
+}
+
+p1{
+    color: #f11111;
+   <!--background-color: black;-->
+}
+
+body{
+    background-image: url(../images/ds.jpeg);
+    background-attachment: fixed;
+}
